@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANUJ ANURAG</h1>
+<h1 align="center">Hi 👋, I'm ANUJ ANURAG</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1647610229306-3906b8f72539?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjIxfHxoYWNrZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
 
